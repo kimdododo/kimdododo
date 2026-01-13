@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=700&size=26&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Think+Different+with+Data.;Turning+Raw+Data+into+Vibrant+Insights.;Building+Intelligent+Systems+with+AI." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=700&size=26&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Hello+there!+👋+Welcome+to+my+space.;I+craft+warm+insights+from+cold+data.;Let's+build+something+wonderful+together." alt="Typing SVG" />
 </a>
 
 <br/><br/>
