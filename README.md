@@ -32,9 +32,10 @@
 <br/>
 
 <h3>🏆 Achievements</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=kimdododo&theme=onedark&column=7&margin-w=15&margin-h=15" alt="trophy" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimdododo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=fff" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdododo&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=fff" height="150" alt="langs" />
+</div>
 
 <br/><br/>
 
