@@ -1,19 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38)
-
-<div align="center">
-
-  ## 👋 안녕하세요!
-  > **저는 데이터와 AI 마케팅을 공부하고있어요.**
-  <br/>
-  새로운 도전을 즐기며, 끊임없이 성장하는 개발자입니다.
-
-</div>
-
----
-
-### 📊 My Capabilities
-<img src="./image_0.png" width="500" alt="역량 레이더 차트">
-
 <br/>
 
 ### 🌱 GitHub 3D Contrib
