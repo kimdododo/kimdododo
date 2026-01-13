@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,4A00E0,00B4DB,0083B0&height=280&section=header&text=Designed%20by%20Data%20%26%20Color.&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Apple Rainbow Header" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=700&size=26&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Hello+there!+👋+Welcome+to+my+space.;I+craft+warm+insights+from+cold+data.;Let's+build+something+wonderful+together." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 <table border="0">
 <tr>
 <td align="center" width="50%" style="border: none;">
@@ -26,8 +36,65 @@
 </div>
 <br/>
 <a href="https://github.com/kimdododo">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdododo&count_bg=%231D1D1F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=true"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdododo&count_bg=%231D1D1F&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/>
 </a>
 </td>
 </tr>
 </table>
+
+<br/><br/>
+
+<h3>🎯 Focus Areas</h3>
+<img src="https://img.shields.io/badge/Data_Analysis-007CF0?style=flat-square&logo=googlecolab&logoColor=white&labelColor=00DFD8">
+<img src="https://img.shields.io/badge/Model_Optimization-7928CA?style=flat-square&logo=pytorch&logoColor=white&labelColor=FF0080">
+<img src="https://img.shields.io/badge/System_Design-FF4D4D?style=flat-square&logo=codewars&logoColor=white&labelColor=F9CB28">
+<img src="https://img.shields.io/badge/Documentation-00AB55?style=flat-square&logo=notion&logoColor=white&labelColor=00C6AE">
+
+<br/><br/><br/>
+
+<h3>🛠️ Technology Stack</h3>
+<br/>
+
+<table style="border-collapse: collapse;">
+<tr>
+<th align="center" width="33%" style="border-bottom: 2px solid #eee; padding-bottom: 10px;">Data Engineering</th>
+<th align="center" width="33%" style="border-bottom: 2px solid #eee; padding-bottom: 10px;">AI & Machine Learning</th>
+<th align="center" width="33%" style="border-bottom: 2px solid #eee; padding-bottom: 10px;">Core & Backend</th>
+</tr>
+<tr>
+<td align="center" style="border: none; padding-top: 15px;">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+</td>
+<td align="center" style="border: none; padding-top: 15px;">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/LLM_Dev-000000?style=flat-square&logo=openai&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</td>
+<td align="center" style="border: none; padding-top: 15px;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<h3>🌱 Contribution Activity</h3>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D 잔디" style="border-radius: 15px;">
+
+</div>
