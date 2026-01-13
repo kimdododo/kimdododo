@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=eef2f3,d9e4f5,eef2f3&height=250&section=header&text=Designed%20by%20Data.&fontSize=50&fontColor=333333&fontAlignY=55&animation=fadeIn" width="100%" alt="Apple Style Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=eef2f3,d9e4f5,eef2f3&height=250&section=header&text=Wellcome!a.&fontSize=50&fontColor=333333&fontAlignY=55&animation=fadeIn" width="100%" alt="Apple Style Header" />
 
 <br/><br/>
 
@@ -54,4 +54,34 @@
 <br/>
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 <br/>
-<img src="
+<img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+</td>
+<td align="center" style="border: none;">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/LLM_Dev-000000?style=flat-square&logo=openai&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</td>
+<td align="center" style="border: none;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<h3>🌱 Contribution Activity</h3>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D 잔디" style="border-radius: 12px;">
+
+</div>
