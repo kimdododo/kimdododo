@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,4A00E0,00B4DB,0083B0&height=280&section=header&text=Designed%20by%20Data&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Apple Rainbow Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,4A00E0,00B4DB,0083B0&height=280&section=header&text=Turning%20Data%20into%20Impact
+&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Apple Rainbow Header" />
 
 <a href="https://git.io/typing-svg">
   <img
