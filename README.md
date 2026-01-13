@@ -31,13 +31,13 @@
 
 <br/>
 
-<h3>🏆 Achievements</h3>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kimdododo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=fff" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdododo&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=fff" height="150" alt="langs" />
-</div>
+<h3>🎯 Focus Areas</h3>
+<img src="https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/Model_Optimization-000000?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=codewars&logoColor=white">
+<img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-<br/>
+<br/><br/>
 
 <h3>🛠️ Data & AI Tech Stack</h3>
 
