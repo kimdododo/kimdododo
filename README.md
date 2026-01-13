@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,4A00E0,00B4DB,0083B0&height=280&section=header&text=Designed%20by%20Data&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Apple Rainbow Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,4A00E0,00B4DB,0083B0&height=260&section=header&text=Welcome&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Welcome Header" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=700&size=26&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Hello+there!+👋+Welcome+to+my+space.;I+craft+warm+insights+from+cold+data.;Let's+build+something+wonderful+together." alt="Typing SVG" />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=700&size=26&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Hello+there!+👋;I+craft+warm+insights+from+cold+data.;Let's+build+something+wonderful+together." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -95,6 +95,4 @@
 <br/><br/>
 
 <h3>🌱 Contribution Activity</h3>
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D 잔디" style="border-radius: 15px;">
-
-</div>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D 잔디" style="border-radius: 15px
