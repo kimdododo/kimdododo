@@ -17,91 +17,44 @@
 
 ---
 
-## 👋 Overview
+## 📌 Overview
 
-**데이터는 해석될 때 비로소 가치가 됩니다.**  
-저는 데이터를 “분석 결과”로 끝내지 않고,  
-**의사결정과 행동으로 이어지는 구조**로 설계합니다.
-
-- 데이터 → 인사이트 → 제품/비즈니스 결정
-- 실험 가능하고, 측정 가능하며, 확장 가능한 방식 지향
+| 📊 Core Competencies | 🚀 About Me |
+|---|---|
+| <img src="https://raw.githubusercontent.com/kimdododo/kimdododo/main/image%20(1).png" width="100%" alt="Core Skills" /> | **“데이터는 해석될 때 비로소 가치를 가집니다.”**<br/><br/>단순한 분석 결과가 아니라,<br/>**의사결정과 실행으로 이어지는 데이터 구조**를 설계합니다.<br/><br/>🧩 **Architecting** scalable data pipelines<br/>🧠 **Engineering** high-performance LLM systems<br/>🎨 **Translating** data into business value<br/><br/><a href="mailto:68hyunggn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://github.com/kimdododo"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" /></a><br/><br/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdododo&count_bg=%231D1D1F&title_bg=%23555555&icon=github&icon_color=%23E7E7E7&title=Visits" alt="Hits" /> |
 
 ---
 
-## 🚀 Featured Project
+### ✅ Proof (Snapshot)
 
-### 여유 (Yeoyu) — YouTube 기반 여행 취향 추천 시스템
+- Sentiment Analysis Model · **Macro F1 0.87**
+- End-to-End **Data → Insight → Decision** 구조 설계 경험
 
-**문제**
-- 여행 영상은 넘쳐나지만,  
-  사용자는 “나한테 맞는 여행 콘텐츠”를 찾는 데 높은 탐색 비용을 지불함
-
-**해결**
-- YouTube Data API로 영상·댓글 수집
-- 자연어 처리 기반 **토픽 모델링 + 감정 분석**
-- 콘텐츠 특성과 사용자 취향을 벡터화해 **추천 입력값으로 구조화**
-
-**내 역할**
-- 데이터 수집 파이프라인 설계 (API → DB)
-- 댓글 감정 분석 모델 파인튜닝
-- 토픽/감정 기반 추천 로직 설계
-- 분석 결과를 서비스 구조로 연결
-
-**기술 스택**
-- Python, YouTube Data API
-- NLP (Topic Modeling, Sentiment Analysis)
-- FastAPI, 데이터베이스 기반 파이프라인
-
-**성과 / 검증**
-- 감정 분석 모델 Macro F1 **0.87**
-- 콘텐츠 특성·사용자 취향을 추천 입력값으로 사용할 수 있는 수준의 품질 확보
-- “인기 영상”이 아닌 **취향 기반 추천 가능성 검증**
-
----
-
-## ✅ Proof (Selected)
-
-- 댓글 기반 감정 분석 모델 성능 Macro F1 **0.87**
-- 비정형 텍스트를 추천 시스템 입력값으로 구조화
-- 데이터 분석 결과를 서비스 로직으로 연결한 End-to-End 설계 경험
+> 📌 Detailed implementations and experiments are available in my repositories.
 
 ---
 
 ## 🎯 Focus Areas
 
-- Data Analysis & Experimentation  
-- Recommendation Logic Design  
-- NLP / LLM 활용 구조 설계  
-- Data → Business Decision Translation  
+<img src="https://img.shields.io/badge/Data_Analysis-007CF0?style=flat-square" />
+<img src="https://img.shields.io/badge/System_Design-FF4D4D?style=flat-square" />
+<img src="https://img.shields.io/badge/Model_Optimization-7928CA?style=flat-square" />
+<img src="https://img.shields.io/badge/Documentation-00AB55?style=flat-square" />
 
 ---
 
 ## 🛠️ Technology Stack
 
-| 영역 | 기술 |
-|---|---|
-| Data Engineering | API 기반 수집, 데이터 파이프라인 설계 |
-| AI / ML | NLP, Sentiment Analysis, Topic Modeling |
-| Backend | Python, FastAPI |
-| Analysis | 데이터 기반 가설 검증, 지표 설계 |
+| Data Engineering | AI & Machine Learning | Core & Backend |
+|---|---|---|
+| Kafka · Spark · Flink · GCP | PyTorch · TensorFlow · LLM · Scikit-learn | Python · FastAPI · React · Next.js |
 
 ---
 
-## 📬 Contact
-
-- **Email**: 68hyunggn@gmail.com  
-- **Portfolio / Notion**:  
-  https://kimdohyun960801.notion.site/20626b4abce580f6be1ec60232aa0266?pvs=74  
-- **GitHub**: https://github.com/kimdododo  
-
----
-
-<div align="center">
+## 🌱 Contribution Activity
 
 <img
   src="./profile-3d-contrib/profile-night-rainbow.svg"
   width="100%"
   alt="Contribution Graph"
 />
-
-</div>
