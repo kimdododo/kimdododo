@@ -33,11 +33,11 @@
 
 <h3>🏆 Achievements</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimdododo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=fff" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdododo&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=fff" height="150" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=kimdododo&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=fff" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdododo&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=fff" height="150" alt="langs" />
 </div>
 
-<br/><br/>
+<br/>
 
 <h3>🛠️ Data & AI Tech Stack</h3>
 
