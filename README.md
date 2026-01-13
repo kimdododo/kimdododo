@@ -1,6 +1,6 @@
 <div align="center">
 
-![Apple Rainbow Header](https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,4A00E0,00B4DB,0083B0&height=280&section=header&text=Designed%20by%20Data%20%26%20Color.&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome&fontSize=70" width="100%" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&weight=700&size=26&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Hello+there!+👋+Welcome+to+my+space.;I+craft+warm+insights+from+cold+data.;Let's+build+something+wonderful+together.)](https://git.io/typing-svg)
 
