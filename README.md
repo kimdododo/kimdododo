@@ -113,4 +113,10 @@
 
   <h3>🌱 Contribution Activity</h3>
   <img
-    src="./profile-3d-contrib/p
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D 잔디"
+    style="border-radius: 15px;"
+  >
+
+</div>
